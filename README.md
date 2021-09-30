@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Holland Sersen and I am a Audio Programmer from Chicago IL.
-###
+### If you are interested in my work please look at the repositories down below!
 
 <!--
 **GeorgeTheSlayer/GeorgeTheSlayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
